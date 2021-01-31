@@ -774,6 +774,13 @@ h4 {
     color: #1a1a1a!important;
 }
 
+.tc-orange {
+    color:  #F3976C!important;
+    text-shadow: 0.1em 0.1em 0.1em 0.1em black;
+   
+}
+
+
 .btn-atomic-tangerine {
     background: #F3976C;
     color: #1a1a1a!important;
@@ -801,7 +808,7 @@ h4 {
 }
 
 .icon-dark-slate-blue {
-    color: #364577!important;
+    color: #364577! important;
     border-color: #364577!important;
 }
 
